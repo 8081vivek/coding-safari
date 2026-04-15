@@ -16,3 +16,7 @@ export default defineConfig({
         },
     },
 });
+
+input: [
+  "src/css/app.css"
+]
