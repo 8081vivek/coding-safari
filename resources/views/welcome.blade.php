@@ -212,7 +212,7 @@
     </footer>
 
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-    <script src="https://unpkg.com/three@0.160.0/build/three.min.js"></script>
+    <!-- <script src="https://unpkg.com/three@0.160.0/build/three.min.js"></script> -->
 
     <script src="js/welcome.js"></script></body>
 </html>
